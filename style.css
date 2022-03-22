@@ -1,8 +1,13 @@
-.pics {
-    border-image-width: 300px;
-    size: auto;
-}
-.heading {
-    color: rgb(0, 119, 6);
+body {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1, h2 {
+    color: rgb(0, 119, 6);
+}
+p, ul, ol {
+    color: black;
+}
+img {
+    width: 500px;
+    height: auto;
 }
